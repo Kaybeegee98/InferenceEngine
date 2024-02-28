@@ -1,0 +1,15 @@
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\bin\Debug\net6.0\InferenceEngine.exe
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\bin\Debug\net6.0\InferenceEngine.deps.json
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\bin\Debug\net6.0\InferenceEngine.runtimeconfig.json
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\bin\Debug\net6.0\InferenceEngine.dll
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\bin\Debug\net6.0\InferenceEngine.pdb
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.csproj.AssemblyReference.cache
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.AssemblyInfoInputs.cache
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.AssemblyInfo.cs
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.csproj.CoreCompileInputs.cache
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.dll
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\refint\InferenceEngine.dll
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.pdb
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\InferenceEngine.genruntimeconfig.cache
+E:\School Work\COS30019\Assignment2\InferenceEngine\InferenceEngine\obj\Debug\net6.0\ref\InferenceEngine.dll
